@@ -37,3 +37,358 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 2024-03-18 08:27:45,433 - INFO - --> Send Data SN:  xxxxxxxxxx
 2024-03-18 08:27:47,077 - ERROR - SIGNAL FAIL CHECK CODE DATA FROM mes
 2024-03-18 08:27:48,663 - WARNING - Wrong PLC Signal
+2024-03-18 17:12:04,906 - ERROR - Camera Error
+2024-03-18 17:12:05,273 - ERROR - Can't connect with MES APP
+2024-03-18 17:12:05,274 - ERROR - CAM ERROR
+2024-03-18 17:19:57,114 - ERROR - Can't connect with MES APP
+2024-03-18 17:20:20,694 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-03-18 17:20:20,694 - INFO - --> Received scan signal from PLC
+2024-03-18 17:20:20,694 - INFO - --> ------ SCAN SIGNAL -------
+2024-03-18 17:20:20,796 - INFO - --> RESULT SCAN
+2024-03-18 17:20:20,797 - INFO - PASS SCAN
+2024-03-18 17:20:20,797 - INFO - ----------- SEND TO SFC -----------
+2024-03-18 17:20:20,958 - WARNING - Wrong PLC Signal
+2024-03-18 17:20:21,467 - INFO - --> Send Data SN:  xxxxxxxxxx
+2024-03-18 17:20:21,580 - ERROR - PASS MES
+2024-03-18 17:20:30,644 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-03-18 17:20:30,644 - INFO - --> Received scan signal from PLC
+2024-03-18 17:20:30,644 - INFO - --> ------ SCAN SIGNAL -------
+2024-03-18 17:20:30,738 - INFO - --> RESULT SCAN
+2024-03-18 17:20:30,738 - INFO - PASS SCAN
+2024-03-18 17:20:30,738 - INFO - ----------- SEND TO SFC -----------
+2024-03-18 17:20:30,894 - WARNING - Wrong PLC Signal
+2024-03-18 17:20:30,910 - WARNING - Wrong PLC Signal
+2024-03-18 17:20:30,926 - WARNING - Wrong PLC Signal
+2024-03-18 17:20:31,299 - INFO - --> Send Data SN:  xxxxxxxxxx
+2024-03-18 17:20:31,403 - ERROR - PASS MES
+2024-03-18 17:20:34,679 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-03-18 17:20:34,679 - INFO - --> Received scan signal from PLC
+2024-03-18 17:20:34,679 - INFO - --> ------ SCAN SIGNAL -------
+2024-03-18 17:20:34,773 - INFO - --> RESULT SCAN
+2024-03-18 17:20:34,773 - INFO - PASS SCAN
+2024-03-18 17:20:34,773 - INFO - ----------- SEND TO SFC -----------
+2024-03-18 17:20:34,916 - WARNING - Wrong PLC Signal
+2024-03-18 17:20:34,932 - WARNING - Wrong PLC Signal
+2024-03-18 17:20:35,315 - INFO - --> Send Data SN:  xxxxxxxxxx
+2024-03-18 17:20:35,422 - ERROR - PASS MES
+2024-03-18 17:20:37,600 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-03-18 17:20:37,600 - INFO - --> Received scan signal from PLC
+2024-03-18 17:20:37,600 - INFO - --> ------ SCAN SIGNAL -------
+2024-03-18 17:20:37,697 - INFO - --> RESULT SCAN
+2024-03-18 17:20:37,697 - INFO - PASS SCAN
+2024-03-18 17:20:37,697 - INFO - ----------- SEND TO SFC -----------
+2024-03-18 17:20:37,853 - WARNING - Wrong PLC Signal
+2024-03-18 17:20:37,868 - WARNING - Wrong PLC Signal
+2024-03-18 17:20:38,250 - INFO - --> Send Data SN:  xxxxxxxxxx
+2024-03-18 17:20:38,373 - ERROR - PASS MES
+2024-03-18 17:20:39,446 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-03-18 17:20:39,446 - INFO - --> Received scan signal from PLC
+2024-03-18 17:20:39,446 - INFO - --> ------ SCAN SIGNAL -------
+2024-03-18 17:20:39,538 - INFO - --> RESULT SCAN
+2024-03-18 17:20:39,539 - INFO - PASS SCAN
+2024-03-18 17:20:39,539 - INFO - ----------- SEND TO SFC -----------
+2024-03-18 17:20:39,682 - WARNING - Wrong PLC Signal
+2024-03-18 17:20:40,076 - INFO - --> Send Data SN:  xxxxxxxxxx
+2024-03-18 17:20:40,192 - ERROR - PASS MES
+2024-03-18 17:29:36,699 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-03-18 17:29:36,699 - INFO - --> Received scan signal from PLC
+2024-03-18 17:29:36,699 - INFO - --> ------ SCAN SIGNAL -------
+2024-03-18 17:29:36,798 - INFO - --> RESULT SCAN
+2024-03-18 17:29:36,799 - INFO - PASS SCAN
+2024-03-18 17:29:36,799 - INFO - ----------- SEND TO SFC -----------
+2024-03-18 17:29:36,949 - WARNING - Wrong PLC Signal
+2024-03-18 17:29:36,965 - WARNING - Wrong PLC Signal
+2024-03-18 17:29:37,472 - INFO - --> Send Data SN:  xxxxxxxxxx
+2024-03-18 17:29:37,602 - ERROR - PASS MES
+2024-03-18 17:29:39,536 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-03-18 17:29:39,536 - INFO - --> Received scan signal from PLC
+2024-03-18 17:29:39,536 - INFO - --> ------ SCAN SIGNAL -------
+2024-03-18 17:29:39,628 - INFO - --> RESULT SCAN
+2024-03-18 17:29:39,628 - INFO - PASS SCAN
+2024-03-18 17:29:39,628 - INFO - ----------- SEND TO SFC -----------
+2024-03-18 17:29:39,788 - WARNING - Wrong PLC Signal
+2024-03-18 17:29:39,803 - WARNING - Wrong PLC Signal
+2024-03-18 17:29:40,186 - INFO - --> Send Data SN:  xxxxxxxxxx
+2024-03-18 17:29:40,318 - ERROR - PASS MES
+2024-03-18 17:29:42,140 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-03-18 17:29:42,140 - INFO - --> Received scan signal from PLC
+2024-03-18 17:29:42,140 - INFO - --> ------ SCAN SIGNAL -------
+2024-03-18 17:29:42,235 - INFO - --> RESULT SCAN
+2024-03-18 17:29:42,235 - INFO - PASS SCAN
+2024-03-18 17:29:42,235 - INFO - ----------- SEND TO SFC -----------
+2024-03-18 17:29:42,388 - WARNING - Wrong PLC Signal
+2024-03-18 17:29:42,780 - INFO - --> Send Data SN:  xxxxxxxxxx
+2024-03-18 17:29:42,889 - ERROR - PASS MES
+2024-03-18 17:29:44,250 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-03-18 17:29:44,250 - INFO - --> Received scan signal from PLC
+2024-03-18 17:29:44,250 - INFO - --> ------ SCAN SIGNAL -------
+2024-03-18 17:29:44,340 - INFO - --> RESULT SCAN
+2024-03-18 17:29:44,340 - INFO - PASS SCAN
+2024-03-18 17:29:44,340 - INFO - ----------- SEND TO SFC -----------
+2024-03-18 17:29:44,485 - WARNING - Wrong PLC Signal
+2024-03-18 17:29:44,501 - WARNING - Wrong PLC Signal
+2024-03-18 17:29:44,884 - INFO - --> Send Data SN:  xxxxxxxxxx
+2024-03-18 17:29:44,989 - ERROR - PASS MES
+2024-03-18 17:30:33,681 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-03-18 17:30:33,681 - INFO - --> Received scan signal from PLC
+2024-03-18 17:30:33,681 - INFO - --> ------ SCAN SIGNAL -------
+2024-03-18 17:30:33,774 - INFO - --> RESULT SCAN
+2024-03-18 17:30:33,774 - INFO - PASS SCAN
+2024-03-18 17:30:33,774 - INFO - ----------- SEND TO SFC -----------
+2024-03-18 17:30:33,914 - WARNING - Wrong PLC Signal
+2024-03-18 17:30:33,930 - WARNING - Wrong PLC Signal
+2024-03-18 17:30:34,317 - INFO - --> Send Data SN:  xxxxxxxxxx
+2024-03-18 17:30:34,423 - ERROR - PASS MES
+2024-03-18 17:30:36,827 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-03-18 17:30:36,827 - INFO - --> Received scan signal from PLC
+2024-03-18 17:30:36,827 - INFO - --> ------ SCAN SIGNAL -------
+2024-03-18 17:30:36,921 - INFO - --> RESULT SCAN
+2024-03-18 17:30:36,921 - INFO - PASS SCAN
+2024-03-18 17:30:36,921 - INFO - ----------- SEND TO SFC -----------
+2024-03-18 17:30:37,063 - WARNING - Wrong PLC Signal
+2024-03-18 17:30:37,080 - WARNING - Wrong PLC Signal
+2024-03-18 17:30:37,471 - INFO - --> Send Data SN:  xxxxxxxxxx
+2024-03-18 17:30:37,591 - ERROR - PASS MES
+2024-03-18 17:30:38,308 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-03-18 17:30:38,308 - INFO - --> Received scan signal from PLC
+2024-03-18 17:30:38,308 - INFO - --> ------ SCAN SIGNAL -------
+2024-03-18 17:30:38,401 - INFO - --> RESULT SCAN
+2024-03-18 17:30:38,401 - INFO - PASS SCAN
+2024-03-18 17:30:38,401 - INFO - ----------- SEND TO SFC -----------
+2024-03-18 17:30:38,559 - WARNING - Wrong PLC Signal
+2024-03-18 17:30:38,574 - WARNING - Wrong PLC Signal
+2024-03-18 17:30:38,960 - INFO - --> Send Data SN:  xxxxxxxxxx
+2024-03-18 17:30:39,075 - ERROR - PASS MES
+2024-03-18 17:30:40,446 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-03-18 17:30:40,446 - INFO - --> Received scan signal from PLC
+2024-03-18 17:30:40,446 - INFO - --> ------ SCAN SIGNAL -------
+2024-03-18 17:30:40,539 - INFO - --> RESULT SCAN
+2024-03-18 17:30:40,539 - INFO - PASS SCAN
+2024-03-18 17:30:40,539 - INFO - ----------- SEND TO SFC -----------
+2024-03-18 17:30:40,684 - WARNING - Wrong PLC Signal
+2024-03-18 17:30:40,700 - WARNING - Wrong PLC Signal
+2024-03-18 17:30:41,089 - INFO - --> Send Data SN:  xxxxxxxxxx
+2024-03-18 17:30:41,209 - ERROR - PASS MES
+2024-03-18 17:31:57,262 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-03-18 17:31:57,262 - INFO - --> Received scan signal from PLC
+2024-03-18 17:31:57,262 - INFO - --> ------ SCAN SIGNAL -------
+2024-03-18 17:31:57,364 - INFO - --> RESULT SCAN
+2024-03-18 17:31:57,364 - INFO - PASS SCAN
+2024-03-18 17:31:57,364 - INFO - ----------- SEND TO SFC -----------
+2024-03-18 17:31:57,512 - WARNING - Wrong PLC Signal
+2024-03-18 17:31:57,527 - WARNING - Wrong PLC Signal
+2024-03-18 17:31:58,045 - INFO - --> Send Data SN:  xxxxxxxxxx
+2024-03-18 17:31:58,162 - ERROR - PASS MES
+2024-03-18 17:37:21,493 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-03-18 17:37:21,493 - INFO - --> Received scan signal from PLC
+2024-03-18 17:37:21,493 - INFO - --> ------ SCAN SIGNAL -------
+2024-03-18 17:37:21,597 - INFO - --> RESULT SCAN
+2024-03-18 17:37:21,597 - INFO - PASS SCAN
+2024-03-18 17:37:21,598 - INFO - ----------- SEND TO SFC -----------
+2024-03-18 17:37:21,741 - WARNING - Wrong PLC Signal
+2024-03-18 17:37:22,252 - INFO - --> Send Data SN:  xxxxxxxxxx
+2024-03-18 17:37:23,772 - ERROR - SIGNAL FAIL CHECK CODE DATA FROM mes
+2024-03-18 17:37:25,931 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-03-18 17:37:25,931 - INFO - --> Received scan signal from PLC
+2024-03-18 17:37:25,931 - INFO - --> ------ SCAN SIGNAL -------
+2024-03-18 17:37:26,030 - INFO - --> RESULT SCAN
+2024-03-18 17:37:26,031 - INFO - PASS SCAN
+2024-03-18 17:37:26,031 - INFO - ----------- SEND TO SFC -----------
+2024-03-18 17:37:26,195 - WARNING - Wrong PLC Signal
+2024-03-18 17:37:26,210 - WARNING - Wrong PLC Signal
+2024-03-18 17:37:26,591 - INFO - --> Send Data SN:  xxxxxxxxxx
+2024-03-18 17:37:28,142 - ERROR - SIGNAL FAIL CHECK CODE DATA FROM mes
+2024-03-18 17:37:29,725 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-03-18 17:37:29,726 - INFO - --> Received scan signal from PLC
+2024-03-18 17:37:29,726 - INFO - --> ------ SCAN SIGNAL -------
+2024-03-18 17:37:29,821 - INFO - --> RESULT SCAN
+2024-03-18 17:37:29,822 - INFO - PASS SCAN
+2024-03-18 17:37:29,823 - INFO - ----------- SEND TO SFC -----------
+2024-03-18 17:37:29,978 - WARNING - Wrong PLC Signal
+2024-03-18 17:37:30,374 - INFO - --> Send Data SN:  xxxxxxxxxx
+2024-03-18 17:37:31,877 - ERROR - SIGNAL FAIL CHECK CODE DATA FROM mes
+2024-03-18 17:37:36,408 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-03-18 17:37:36,408 - INFO - --> Received scan signal from PLC
+2024-03-18 17:37:36,408 - INFO - --> ------ SCAN SIGNAL -------
+2024-03-18 17:37:36,502 - INFO - --> RESULT SCAN
+2024-03-18 17:37:36,503 - INFO - PASS SCAN
+2024-03-18 17:37:36,504 - INFO - ----------- SEND TO SFC -----------
+2024-03-18 17:37:36,659 - WARNING - Wrong PLC Signal
+2024-03-18 17:37:37,044 - INFO - --> Send Data SN:  xxxxxxxxxx
+2024-03-18 17:37:37,195 - ERROR - PASS MES
+2024-03-18 17:37:39,926 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-03-18 17:37:39,926 - INFO - --> Received scan signal from PLC
+2024-03-18 17:37:39,926 - INFO - --> ------ SCAN SIGNAL -------
+2024-03-18 17:37:40,024 - INFO - --> RESULT SCAN
+2024-03-18 17:37:40,025 - INFO - PASS SCAN
+2024-03-18 17:37:40,025 - INFO - ----------- SEND TO SFC -----------
+2024-03-18 17:37:40,178 - WARNING - Wrong PLC Signal
+2024-03-18 17:37:40,567 - INFO - --> Send Data SN:  xxxxxxxxxx
+2024-03-18 17:37:40,675 - ERROR - PASS MES
+2024-03-18 17:37:43,099 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-03-18 17:37:43,099 - INFO - --> Received scan signal from PLC
+2024-03-18 17:37:43,099 - INFO - --> ------ SCAN SIGNAL -------
+2024-03-18 17:37:43,196 - INFO - --> RESULT SCAN
+2024-03-18 17:37:43,197 - INFO - PASS SCAN
+2024-03-18 17:37:43,197 - INFO - ----------- SEND TO SFC -----------
+2024-03-18 17:37:43,366 - WARNING - Wrong PLC Signal
+2024-03-18 17:37:43,753 - INFO - --> Send Data SN:  xxxxxxxxxx
+2024-03-18 17:37:43,899 - ERROR - PASS MES
+2024-03-18 17:37:45,488 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-03-18 17:37:45,488 - INFO - --> Received scan signal from PLC
+2024-03-18 17:37:45,488 - INFO - --> ------ SCAN SIGNAL -------
+2024-03-18 17:37:45,580 - INFO - --> RESULT SCAN
+2024-03-18 17:37:45,580 - INFO - PASS SCAN
+2024-03-18 17:37:45,581 - INFO - ----------- SEND TO SFC -----------
+2024-03-18 17:37:45,726 - WARNING - Wrong PLC Signal
+2024-03-18 17:37:45,740 - WARNING - Wrong PLC Signal
+2024-03-18 17:37:46,123 - INFO - --> Send Data SN:  xxxxxxxxxx
+2024-03-18 17:37:46,268 - ERROR - PASS MES
+2024-03-18 17:37:49,667 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-03-18 17:37:49,667 - INFO - --> Received scan signal from PLC
+2024-03-18 17:37:49,667 - INFO - --> ------ SCAN SIGNAL -------
+2024-03-18 17:37:49,762 - INFO - --> RESULT SCAN
+2024-03-18 17:37:49,764 - INFO - PASS SCAN
+2024-03-18 17:37:49,765 - INFO - ----------- SEND TO SFC -----------
+2024-03-18 17:37:49,901 - WARNING - Wrong PLC Signal
+2024-03-18 17:37:49,917 - WARNING - Wrong PLC Signal
+2024-03-18 17:37:50,307 - INFO - --> Send Data SN:  xxxxxxxxxx
+2024-03-18 17:37:50,454 - ERROR - PASS MES
+2024-03-18 17:37:52,036 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-03-18 17:37:52,036 - INFO - --> Received scan signal from PLC
+2024-03-18 17:37:52,036 - INFO - --> ------ SCAN SIGNAL -------
+2024-03-18 17:37:52,128 - INFO - --> RESULT SCAN
+2024-03-18 17:37:52,129 - INFO - PASS SCAN
+2024-03-18 17:37:52,130 - INFO - ----------- SEND TO SFC -----------
+2024-03-18 17:37:52,302 - WARNING - Wrong PLC Signal
+2024-03-18 17:37:52,318 - WARNING - Wrong PLC Signal
+2024-03-18 17:37:52,709 - INFO - --> Send Data SN:  xxxxxxxxxx
+2024-03-18 17:37:52,855 - ERROR - PASS MES
+2024-03-18 17:39:51,889 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-03-18 17:39:51,889 - INFO - --> Received scan signal from PLC
+2024-03-18 17:39:51,889 - INFO - --> ------ SCAN SIGNAL -------
+2024-03-18 17:39:51,989 - INFO - --> RESULT SCAN
+2024-03-18 17:39:51,990 - INFO - PASS SCAN
+2024-03-18 17:39:51,990 - INFO - ----------- SEND TO SFC -----------
+2024-03-18 17:39:52,139 - WARNING - Wrong PLC Signal
+2024-03-18 17:39:52,155 - WARNING - Wrong PLC Signal
+2024-03-18 17:39:52,666 - INFO - --> Send Data SN:  xxxxxxxxxx
+2024-03-18 17:39:52,793 - ERROR - PASS MES
+2024-03-18 17:39:54,397 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-03-18 17:39:54,397 - INFO - --> Received scan signal from PLC
+2024-03-18 17:39:54,397 - INFO - --> ------ SCAN SIGNAL -------
+2024-03-18 17:39:54,493 - INFO - --> RESULT SCAN
+2024-03-18 17:39:54,495 - INFO - PASS SCAN
+2024-03-18 17:39:54,495 - INFO - ----------- SEND TO SFC -----------
+2024-03-18 17:39:54,647 - WARNING - Wrong PLC Signal
+2024-03-18 17:39:55,044 - INFO - --> Send Data SN:  xxxxxxxxxx
+2024-03-18 17:39:55,189 - ERROR - PASS MES
+2024-03-18 17:39:56,518 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-03-18 17:39:56,519 - INFO - --> Received scan signal from PLC
+2024-03-18 17:39:56,519 - INFO - --> ------ SCAN SIGNAL -------
+2024-03-18 17:39:56,611 - INFO - --> RESULT SCAN
+2024-03-18 17:39:56,613 - INFO - PASS SCAN
+2024-03-18 17:39:56,613 - INFO - ----------- SEND TO SFC -----------
+2024-03-18 17:39:56,755 - WARNING - Wrong PLC Signal
+2024-03-18 17:39:56,770 - WARNING - Wrong PLC Signal
+2024-03-18 17:39:57,160 - INFO - --> Send Data SN:  xxxxxxxxxx
+2024-03-18 17:39:57,273 - ERROR - PASS MES
+2024-03-18 17:39:58,515 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-03-18 17:39:58,515 - INFO - --> Received scan signal from PLC
+2024-03-18 17:39:58,515 - INFO - --> ------ SCAN SIGNAL -------
+2024-03-18 17:39:58,612 - INFO - --> RESULT SCAN
+2024-03-18 17:39:58,614 - INFO - PASS SCAN
+2024-03-18 17:39:58,614 - INFO - ----------- SEND TO SFC -----------
+2024-03-18 17:39:58,764 - WARNING - Wrong PLC Signal
+2024-03-18 17:39:59,157 - INFO - --> Send Data SN:  xxxxxxxxxx
+2024-03-18 17:39:59,258 - ERROR - PASS MES
+2024-03-18 17:41:40,547 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-03-18 17:41:40,547 - INFO - --> Received scan signal from PLC
+2024-03-18 17:41:40,547 - INFO - --> ------ SCAN SIGNAL -------
+2024-03-18 17:41:40,652 - INFO - --> RESULT SCAN
+2024-03-18 17:41:40,653 - INFO - PASS SCAN
+2024-03-18 17:41:40,653 - INFO - ----------- SEND TO SFC -----------
+2024-03-18 17:41:40,801 - WARNING - Wrong PLC Signal
+2024-03-18 17:41:40,818 - WARNING - Wrong PLC Signal
+2024-03-18 17:41:41,348 - INFO - --> Send Data SN:  xxxxxxxxxx
+2024-03-18 17:41:41,492 - ERROR - PASS MES
+2024-03-18 17:41:53,862 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-03-18 17:41:53,862 - INFO - --> Received scan signal from PLC
+2024-03-18 17:41:53,862 - INFO - --> ------ SCAN SIGNAL -------
+2024-03-18 17:41:53,964 - INFO - --> RESULT SCAN
+2024-03-18 17:41:53,965 - INFO - PASS SCAN
+2024-03-18 17:41:53,966 - INFO - ----------- SEND TO SFC -----------
+2024-03-18 17:41:54,143 - WARNING - Wrong PLC Signal
+2024-03-18 17:41:54,538 - INFO - --> Send Data SN:  xxxxxxxxxx
+2024-03-18 17:41:54,683 - ERROR - PASS MES
+2024-03-18 17:41:58,527 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-03-18 17:41:58,527 - INFO - --> Received scan signal from PLC
+2024-03-18 17:41:58,527 - INFO - --> ------ SCAN SIGNAL -------
+2024-03-18 17:41:58,627 - INFO - --> RESULT SCAN
+2024-03-18 17:41:58,628 - INFO - PASS SCAN
+2024-03-18 17:41:58,628 - INFO - ----------- SEND TO SFC -----------
+2024-03-18 17:41:58,779 - WARNING - Wrong PLC Signal
+2024-03-18 17:41:58,794 - WARNING - Wrong PLC Signal
+2024-03-18 17:41:59,182 - INFO - --> Send Data SN:  xxxxxxxxxx
+2024-03-18 17:41:59,303 - ERROR - PASS MES
+2024-03-18 17:42:02,555 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-03-18 17:42:02,555 - INFO - --> Received scan signal from PLC
+2024-03-18 17:42:02,555 - INFO - --> ------ SCAN SIGNAL -------
+2024-03-18 17:42:02,656 - INFO - --> RESULT SCAN
+2024-03-18 17:42:02,656 - INFO - PASS SCAN
+2024-03-18 17:42:02,657 - INFO - ----------- SEND TO SFC -----------
+2024-03-18 17:42:02,807 - WARNING - Wrong PLC Signal
+2024-03-18 17:42:02,823 - WARNING - Wrong PLC Signal
+2024-03-18 17:42:03,207 - INFO - --> Send Data SN:  xxxxxxxxxx
+2024-03-18 17:42:04,726 - ERROR - SIGNAL FAIL CHECK CODE DATA FROM mes
+2024-03-18 17:42:06,283 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-03-18 17:42:06,283 - INFO - --> Received scan signal from PLC
+2024-03-18 17:42:06,283 - INFO - --> ------ SCAN SIGNAL -------
+2024-03-18 17:42:06,380 - INFO - --> RESULT SCAN
+2024-03-18 17:42:06,381 - INFO - PASS SCAN
+2024-03-18 17:42:06,382 - INFO - ----------- SEND TO SFC -----------
+2024-03-18 17:42:06,534 - WARNING - Wrong PLC Signal
+2024-03-18 17:42:06,923 - INFO - --> Send Data SN:  xxxxxxxxxx
+2024-03-18 17:42:07,025 - ERROR - PASS MES
+2024-03-18 17:42:11,091 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-03-18 17:42:11,091 - INFO - --> Received scan signal from PLC
+2024-03-18 17:42:11,091 - INFO - --> ------ SCAN SIGNAL -------
+2024-03-18 17:42:11,187 - INFO - --> RESULT SCAN
+2024-03-18 17:42:11,188 - INFO - PASS SCAN
+2024-03-18 17:42:11,188 - INFO - ----------- SEND TO SFC -----------
+2024-03-18 17:42:11,356 - WARNING - Wrong PLC Signal
+2024-03-18 17:42:11,745 - INFO - --> Send Data SN:  xxxxxxxxxx
+2024-03-18 17:42:13,264 - ERROR - SIGNAL FAIL CHECK CODE DATA FROM mes

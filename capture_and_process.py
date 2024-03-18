@@ -74,13 +74,11 @@ def lookup_screenshot(self, template):
         position = pyscreeze.locateOnScreen(
             image=template,
             # region=None,
-            # L229, T44, R826, B493
-            # region=(229, 44, 826, 493),
             # region=(
-            #     self.MES_AREA_SNAPSHOT_POSITION[0],
-            #     self.MES_AREA_SNAPSHOT_POSITION[1],
-            #     self.MES_AREA_SNAPSHOT_POSITION[2],
-            #     self.MES_AREA_SNAPSHOT_POSITION[3],
+            #     self.MES_SN_INPUT_POSITION[0],
+            #     self.MES_SN_INPUT_POSITION[1],
+            #     self.MES_SN_INPUT_POSITION[2],
+            #     self.MES_SN_INPUT_POSITION[3],
             # ),
             region=(
                 self.MES_SN_INPUT_POSITION[0] - 25,
@@ -90,7 +88,7 @@ def lookup_screenshot(self, template):
             ),
             grayscale=True,
             confidence=self.MES_COMPARE_CONFIDENCE,
-            minSearchTime=0,
+            minSearchTime=0.1,
         )
         if position:
             print(position)
