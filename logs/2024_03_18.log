@@ -1,0 +1,39 @@
+2024-03-18 08:22:41,277 - ERROR - Camera Error
+2024-03-18 08:22:42,118 - ERROR - Can't connect with MES APP
+2024-03-18 08:22:42,118 - ERROR - CAM ERROR
+2024-03-18 08:24:11,691 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-03-18 08:24:11,691 - INFO - --> Received scan signal from PLC
+2024-03-18 08:24:11,691 - INFO - --> ------ SCAN SIGNAL -------
+2024-03-18 08:24:39,720 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-03-18 08:24:39,720 - INFO - --> Received scan signal from PLC
+2024-03-18 08:24:39,720 - INFO - --> ------ SCAN SIGNAL -------
+2024-03-18 08:27:14,135 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-03-18 08:27:14,135 - INFO - --> Received scan signal from PLC
+2024-03-18 08:27:14,135 - INFO - --> ------ SCAN SIGNAL -------
+2024-03-18 08:27:15,029 - INFO - --> RESULT SCAN
+2024-03-18 08:27:15,030 - ERROR - FAILED
+2024-03-18 08:27:15,043 - ERROR - ------FAIL SCAN-------
+2024-03-18 08:27:15,043 - ERROR - Data SN: None
+2024-03-18 08:27:16,513 - WARNING - Wrong PLC Signal
+2024-03-18 08:27:18,114 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-03-18 08:27:18,114 - INFO - --> Received scan signal from PLC
+2024-03-18 08:27:18,114 - INFO - --> ------ SCAN SIGNAL -------
+2024-03-18 08:27:19,115 - INFO - --> RESULT SCAN
+2024-03-18 08:27:19,115 - ERROR - FAILED
+2024-03-18 08:27:19,127 - ERROR - ------FAIL SCAN-------
+2024-03-18 08:27:19,127 - ERROR - Data SN: None
+2024-03-18 08:27:44,139 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-03-18 08:27:44,139 - INFO - --> Received scan signal from PLC
+2024-03-18 08:27:44,139 - INFO - --> ------ SCAN SIGNAL -------
+2024-03-18 08:27:44,242 - INFO - --> RESULT SCAN
+2024-03-18 08:27:44,242 - INFO - PASS SCAN
+2024-03-18 08:27:44,242 - INFO - ----------- SEND TO SFC -----------
+2024-03-18 08:27:44,936 - WARNING - Wrong PLC Signal
+2024-03-18 08:27:45,433 - INFO - --> Send Data SN:  xxxxxxxxxx
+2024-03-18 08:27:47,077 - ERROR - SIGNAL FAIL CHECK CODE DATA FROM mes
+2024-03-18 08:27:48,663 - WARNING - Wrong PLC Signal

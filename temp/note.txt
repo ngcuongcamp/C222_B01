@@ -1,0 +1,204 @@
+HALL 260    ver:1.0.0.48     Login:V0228172
+
+
+Dialog - 'HALL 260    ver:1.0.0.48     Login:V0228172'    (L0, T0, R1044, B788)
+['HALL 260    ver:1.0.0.48     Login:V0228172', 'Dialog', 'HALL 260    ver:1.0.0.48     Login:V0228172Dialog']
+child_window(title="HALL 260    ver:1.0.0.48     Login:V0228172", auto_id="FrmStSMTPK", control_type="Window")
+   |
+   | ListBox - '0'    (L241, T512, R817, B702)
+   | ['0ListBox', 'ListBox', '0', '00', '01', 'ListBox0', 'ListBox1']
+   | child_window(title="0", auto_id="listBox2", control_type="List")
+   |
+   | GroupBox - ''    (L830, T269, R1030, B384)
+   | ['GroupBox', 'Total Qty：GroupBox', 'GroupBox0', 'GroupBox1']
+   | child_window(auto_id="groupBox5", control_type="Group")
+   |    |
+   |    | Static - '0'    (L926, T334, R1012, B364)
+   |    | ['Static', '0Static', '02', 'Static0', 'Static1', '0Static0', '0Static1']
+   |    | child_window(title="0", auto_id="txtpackqty", control_type="Text")
+   |    |
+   |    | Static - '0'    (L908, T279, R1010, B309)
+   |    | ['Static2', '0Static2', '03']
+   |    | child_window(title="0", auto_id="txtboxqty", control_type="Text")
+   |    |
+   |    | Static - 'Packing QTY：'    (L832, T339, R929, B357)
+   |    | ['Packing QTY：', 'Static3', 'Packing QTY：Static']
+   |    | child_window(title="Packing QTY：", auto_id="label23", control_type="Text")
+   |    |
+   |    | Static - 'BOX Qty：'    (L834, T284, R905, B302)
+   |    | ['BOX Qty：', 'Static4', 'BOX Qty：Static']
+   |    | child_window(title="BOX Qty：", auto_id="label24", control_type="Text")
+   |
+   | ComboBox - 'Print COM：'    (L915, T95, R1018, B121)
+   | ['Print COM：ComboBox', 'ComboBox', 'Print COM：', 'Print COM：0', 'Print COM：1', 'ComboBox0', 'ComboBox1']
+   | child_window(title="Print COM：", auto_id="cboCom", control_type="ComboBox")
+   |    |
+   |    | Edit - 'Print COM：'    (L918, T98, R998, B118)
+   |    | ['Edit', 'Print COM：Edit', 'Edit0', 'Edit1']
+   |    | child_window(title="Print COM：", auto_id="1001", control_type="Edit")
+   |    |
+   |    | Button - 'Open'    (L1002, T96, R1017, B120)
+   |    | ['Open', 'Button', 'OpenButton', 'Open0', 'Open1', 'Button0', 'Button1', 'OpenButton0', 'OpenButton1']
+   |    | child_window(title="Open", control_type="Button")
+   |
+   | Static - 'Print COM：'    (L831, T99, R913, B117)
+   | ['Print COM：Static', 'Static5', 'Print COM：2']
+   | child_window(title="Print COM：", auto_id="label2", control_type="Text")
+   |
+   | ComboBox - ''    (L830, T54, R1028, B80)
+   | ['ScanData：ComboBox', 'ComboBox2', 'ComboBoxClose']
+   | child_window(auto_id="cmbParaList", control_type="ComboBox")
+   |    |
+   |    | Static - ''    (L830, T54, R1028, B80)
+   |    | ['Static6', 'ScanData：Static', 'ScanData：Static0', 'ScanData：Static1']
+   |    |
+   |    | Button - 'Open'    (L1012, T55, R1027, B79)
+   |    | ['Open2', 'Button2', 'OpenButton2']
+   |    | child_window(title="Open", control_type="Button")
+   |
+   | Edit - ''    (L437, T744, R635, B776)
+   | ['Edit2', 'Action Dispatcher ListEdit']
+   | child_window(auto_id="txtOpstep", control_type="Edit")
+   |
+   | Pane - ''    (L20, T44, R223, B178)
+   | ['Pane', 'Pane0', 'Pane1']
+   | child_window(auto_id="pictureBox2", control_type="Pane")
+   |
+   | GroupBox - ''    (L20, T176, R223, B773)
+   | ['GroupBox2']
+   | child_window(auto_id="groupBox4", control_type="Group")
+   |    |
+   |    | ListBox - ''    (L26, T186, R217, B750)
+   |    | ['ListBox2']
+   |    | child_window(auto_id="listBox1", control_type="List")
+   |
+   | GroupBox - 'Action Dispatcher List'    (L229, T44, R826, B493)
+   | ['GroupBox3', 'Action Dispatcher List', 'Action Dispatcher ListGroupBox', 'Action Dispatcher List0', 'Action Dispatcher List1']
+   | child_window(title="Action Dispatcher List", auto_id="groupBox1", control_type="Group")
+   |    |
+   |    | Pane - ''    (L784, T57, R824, B92)
+   |    | ['Pane2', 'ScanData：Pane']
+   |    | child_window(auto_id="pictureBox3", control_type="Pane")
+   |    |
+   |    | Static - 'Information:'    (L238, T379, R359, B402)
+   |    | ['Static7', 'Information:', 'Information:Static']
+   |    | child_window(title="Information:", auto_id="label4", control_type="Text")
+   |    |
+   |    | Static - 'Vui lòng sảo SN trước / Please scan SN first '    (L362, T314, R817, B475)
+   |    | ['Static8', 'Vui lòng sảo SN trước / Please scan SN first Static', 'Vui lòng sảo SN trước / Please scan SN first ', 'Vui lòng sảo SN trước / Please scan SN first Static0', 'Vui lòng sảo SN trước / Please scan SN first Static1', 'Vui lòng sảo SN trước / Please scan SN first 0', 'Vui lòng sảo SN trước / Please scan SN first 1']
+   |    | child_window(title="Vui lòng sảo SN trước / Please scan SN first ", auto_id="ruleresult", control_type="Text")
+   |    |
+   |    | Edit - ''    (L352, T147, R780, B179)
+   |    | ['Edit3', 'Station：Edit']
+   |    | child_window(auto_id="txtstation", control_type="Edit")
+   |    |
+   |    | Edit - ''    (L352, T104, R780, B136)
+   |    | ['Edit4', 'ScanData：Edit', 'ScanData：Edit0', 'ScanData：Edit1']
+   |    | child_window(auto_id="txtSN", control_type="Edit")
+   |    |
+   |    | Static - 'Vui lòng sảo SN trước / Please scan SN first '    (L579, T390, R720, B430)
+   |    | ['Static9', 'Vui lòng sảo SN trước / Please scan SN first Static2', 'Vui lòng sảo SN trước / Please scan SN first 2']
+   |    | child_window(title="Vui lòng sảo SN trước / Please scan SN first ", auto_id="label20", control_type="Text")
+   |    |
+   |    | ComboBox - 'line：'    (L352, T190, R560, B222)
+   |    | ['line：', 'line：ComboBox', 'ComboBox3', 'line：0', 'line：1']
+   |    | child_window(title="line：", auto_id="txtline", control_type="ComboBox")
+   |    |    |
+   |    |    | Static - 'line：'    (L352, T190, R560, B222)
+   |    |    | ['line：2', 'Static10', 'line：Static', 'line：Static0', 'line：Static1']
+   |    |    | child_window(title="line：", control_type="Text")
+   |    |    |
+   |    |    | Button - 'Open'    (L544, T191, R559, B221)
+   |    |    | ['Open3', 'Button3', 'OpenButton3']
+   |    |    | child_window(title="Open", control_type="Button")
+   |    |
+   |    | Static - 'line：'    (L237, T190, R291, B213)
+   |    | ['line：3', 'Static11', 'line：Static2']
+   |    | child_window(title="line：", auto_id="label14", control_type="Text")
+   |    |
+   |    | Static - 'ScanData：'    (L237, T67, R341, B90)
+   |    | ['Static12', 'ScanData：', 'ScanData：Static2']
+   |    | child_window(title="ScanData：", auto_id="label10", control_type="Text")
+   |    |
+   |    | Static - '0'    (L644, T278, R664, B301)
+   |    | ['Static13', '0Static3', '04']
+   |    | child_window(title="0", auto_id="lblMoveOUTQTY", control_type="Text")
+   |    |
+   |    | Edit - 'Action Dispatcher List'    (L352, T59, R780, B91)
+   |    | ['Edit5', 'ScanData：Edit2']
+   |    | child_window(title="Action Dispatcher List", auto_id="txtscan", control_type="Edit")
+   |    |
+   |    | Static - 'Move out Qty：'    (L484, T278, R627, B301)
+   |    | ['Static14', 'Move out Qty：Static', 'Move out Qty：']
+   |    | child_window(title="Move out Qty：", auto_id="label19", control_type="Text")
+   |    |
+   |    | Static - '0'    (L386, T278, R406, B301)
+   |    | ['Static15', '0Static4', '05']
+   |    | child_window(title="0", auto_id="lblMoveINQTY", control_type="Text")
+   |    |
+   |    | Static - 'Move in Qty：'    (L237, T278, R369, B301)
+   |    | ['Move in Qty：', 'Static16', 'Move in Qty：Static']
+   |    | child_window(title="Move in Qty：", auto_id="label17", control_type="Text")
+   |    |
+   |    | Static - 'End Time：'    (L531, T234, R638, B257)
+   |    | ['End Time：Static', 'Static17', 'End Time：']
+   |    | child_window(title="End Time：", auto_id="label16", control_type="Text")
+   |    |
+   |    | Static - 'Start Time：'    (L237, T234, R349, B257)
+   |    | ['Start Time：Static', 'Static18', 'Start Time：']
+   |    | child_window(title="Start Time：", auto_id="label13", control_type="Text")
+   |    |
+   |    | Static - 'Station：'    (L238, T147, R321, B170)
+   |    | ['Station：', 'Static19', 'Station：Static']
+   |    | child_window(title="Station：", auto_id="label3", control_type="Text")
+   |    |
+   |    | Static - 'SN：'    (L237, T105, R285, B128)
+   |    | ['SN：', 'Static20', 'SN：Static']
+   |    | child_window(title="SN：", auto_id="label1", control_type="Text")
+   |
+   | Static - 'Action Dispatcher List'    (L226, T748, R431, B771)
+   | ['Action Dispatcher List2', 'Static21', 'Action Dispatcher ListStatic']
+   | child_window(title="Action Dispatcher List", auto_id="label12", control_type="Text")
+   |
+   | GroupBox - ''    (L828, T140, R1028, B258)
+   | ['GroupBox4', 'Print COM：GroupBox']
+   | child_window(auto_id="groupBox3", control_type="Group")
+   |    |
+   |    | Static - '0'    (L908, T313, R1010, B343)
+   |    | ['Static22', '0Static5', '06']
+   |    | child_window(title="0", auto_id="txtinputQty", control_type="Text")
+   |    |
+   |    | Static - 'Input Qty：'    (L831, T319, R906, B337)
+   |    | ['Input Qty：Static', 'Static23', 'Input Qty：']
+   |    | child_window(title="Input Qty：", auto_id="label8", control_type="Text")
+   |    |
+   |    | Static - '0'    (L907, T264, R1010, B293)
+   |    | ['Static24', '0Static6', '07']
+   |    | child_window(title="0", auto_id="txttotalqty", control_type="Text")
+   |    |
+   |    | Static - 'Total Qty：'    (L830, T267, R903, B285)
+   |    | ['Total Qty：', 'Static25', 'Total Qty：Static']
+   |    | child_window(title="Total Qty：", auto_id="lblqty", control_type="Text")
+   |    |
+   |    | Static - ''    (L891, T197, R1012, B237)
+   |    | ['PartNo：Static', 'Static26', 'PartNo：Static0', 'PartNo：Static1']
+   |    | child_window(auto_id="txtPN", control_type="Text")
+   |    |
+   |    | Static - 'WO：'    (L875, T148, R1016, B188)
+   |    | ['WO：', 'Static27', 'WO：Static', 'WO：0', 'WO：1', 'WO：Static0', 'WO：Static1']
+   |    | child_window(title="WO：", auto_id="txtWONo", control_type="Text")
+   |    |
+   |    | Static - 'PartNo：'    (L830, T210, R889, B228)
+   |    | ['PartNo：Static2', 'Static28', 'PartNo：']
+   |    | child_window(title="PartNo：", auto_id="label5", control_type="Text")
+   |    |
+   |    | Static - 'WO：'    (L832, T155, R873, B173)
+   |    | ['WO：2', 'Static29', 'WO：Static2']
+   |    | child_window(title="WO：", auto_id="label6", control_type="Text")
+   |
+   | Pane - '0'    (L829, T526, R1026, B734)
+   | ['Pane3', '0Pane', '08']
+   | child_window(title="0", auto_id="pictureBox1", control_type="Pane")
+   |
+   | TitleBar - ''    (L8, T8, R1036, B31)
+   | ['TitleBar']
