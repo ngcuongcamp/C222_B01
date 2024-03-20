@@ -66,7 +66,7 @@ def compare_image_ssim(img1, img2):
 
 def lookup_screenshot(self, template):
     """TODO
-    Su dung de tim kiem  `template` xuat hien tren man hinh chinh
+    use to lookup  `template` on screen
     @template : *`type: numpy array`
     @return : *`type: boolean`
     """
