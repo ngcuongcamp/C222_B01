@@ -10,6 +10,7 @@ from libs.libs import (
     AnsiToWin32,
     Fore,
     sys,
+    cv2,
 )
 
 #! utility function
@@ -102,6 +103,7 @@ def read_config(self):
     self.MES_COMPARE_CONFIDENCE = float(config["MES"]["MES_COMPARE_CONFIDENCE"])
     self.BLOCK_SIZE_1 = int(config["THRESH"]["BLOCK_SIZE_1"])
     self.C1 = int(config["THRESH"]["C1"])
+    self.pass_template = cv2.imread(r"./temp/pass_template.png")
 
 
 handle_remove_old_folders()

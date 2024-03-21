@@ -37,9 +37,6 @@ def capture_screen(position):
         print(E)
 
 
-#
-
-
 def compare_image_ssim(img1, img2):
     try:
         similarity_index, _ = ssim(
@@ -137,3 +134,20 @@ def capture_by_position(position):
 
     except Exception as E:
         print("Error while capture screen", E)
+
+
+def lookup_template_onscreen(template):
+    try:
+        position = pyscreeze.locateOnScreen(
+            image=template,
+            region=None,
+            grayscale=True,
+            confidence=0.6,
+            minSearchTime=0.1,
+        )
+        if position:
+            print(position)
+            return True
+    except Exception as E:
+        print(E)
+        return False

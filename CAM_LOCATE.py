@@ -125,6 +125,7 @@ class MyApplication(QMainWindow):
         # IF PASS SCAN
         if self.data_scan1 is not None:
             is_match = None
+            is_pass_msg = None
 
             cmd_printer("SUCCESS", "PASS SCAN")
             logger.info("PASS SCAN")
@@ -150,13 +151,7 @@ class MyApplication(QMainWindow):
             while time.time() - stime <= self.MAX_WAIT:
                 is_match = lookup_screenshot(self, old_sn_capture)
                 if is_match == False:  # change input sn string
-                    self.THREAD_PLC.send_signal_to_plc(b"1")
-                    cmd_printer("SUCCESS", "PASS MES")
-                    logger.error("PASS MES")
-                    if self.state_ui == False or self.state_ui == None:
-                        set_state_pass(self)
-                        self.state_ui = True
-                        self.is_processing = False
+
                     break
 
             if is_match == True or is_match is None:
@@ -167,6 +162,27 @@ class MyApplication(QMainWindow):
                 if self.state_ui == True or self.state_ui == None:
                     set_fail_state(self)
                     self.state_ui = False
+
+            if is_match == False:
+                time.sleep(self.TIME_SLEEP)
+                # is_pass_msg
+                is_pass_msg = lookup_template_onscreen(template=self.pass_template)
+                if is_pass_msg == True:
+                    self.THREAD_PLC.send_signal_to_plc(b"1")
+                    cmd_printer("SUCCESS", "PASS MES")
+                    logger.error("PASS MES")
+                    if self.state_ui == False or self.state_ui == None:
+                        set_state_pass(self)
+                        self.state_ui = True
+                        self.is_processing = False
+                if is_pass_msg == False:
+                    self.THREAD_PLC.send_signal_to_plc(b"2")
+                    self.is_processing = False
+                    cmd_printer("ERROR", "SIGNAL FAIL CHECK CODE DATA FROM mes")
+                    logger.error("SIGNAL FAIL CHECK CODE DATA FROM mes")
+                    if self.state_ui == True or self.state_ui == None:
+                        set_fail_state(self)
+                        self.state_ui = False
 
             cmd_printer(
                 "INFO", f"spends: {(time.time() - stime_connect)}s to working with Mes"
